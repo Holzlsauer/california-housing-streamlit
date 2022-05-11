@@ -6,7 +6,7 @@ Project of a dashboard made with Streamlit to explore the California Housing dat
 
 Link for the notebook used in the development of the estimator:
 
-[california_housing_model_prep](https://github.com/Holzlsauer/california-housing-streamlit/blob/main/model/colifornia_housing_model_prep.ipynb)
+[california_housing_model_prep](https://github.com/Holzlsauer/california-housing-streamlit/blob/main/model/california_housing_model_prep.ipynb)
 
 ## How to run locally
 
